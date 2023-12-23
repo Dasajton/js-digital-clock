@@ -86,3 +86,9 @@ body {
   width: var(--short-line);
   height: var(--vert-long-line);
 }
+
+.colon {
+  font-family: 'Orbitron', sans-serif;
+  font-size: 10rem;
+  font-weight: 900;
+}
